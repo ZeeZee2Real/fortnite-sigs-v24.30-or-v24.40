@@ -1,0 +1,6 @@
+GWorld 48 89 05 ?? ?? ?? ?? 0F 28 D7
+:GetBoneMatrix E8 ? ? ? ? 0F 10 40 68"
+ProjectWorldToScreen 40 55 53 56 57 41 56 41 57 48 8D AC 24 ? ? ? ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 85 ? ? ? ? 33 DB 45 8A F9 49 8B F8 4C 8B F2 48 8B F1 48 85 C9
+Freefn 48 89 D1 48 FF 25 ? ? ? ? C3
+GetNameByIndex 48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 41 56 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 84 24 ? ? ? ? 8B 19 4C 8B F2 E8 ? ? ? ? 8B D3 0F B7 CB C1 EA 10 89 54 24 20 89 4C 24 24 48 8B 74 24 ? 48 C1 EE 20
+Gobjects "48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1"
